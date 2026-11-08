@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tammannn.xyz/sitemap.xml
